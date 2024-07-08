@@ -3,10 +3,16 @@ Project Objective:
 
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
+Import data to SQL database
+
+	1. Prepare csv file
+	2. Create tables in SQL
+	3. import csv file into SQL
+
 Project Insights - Week 53 (31st Dec):
 	
- 	WoW change:	
- 	• Revenue increased by 3.3%.
+	WoW change:	
+	• Revenue increased by 3.3%.
 	• Total Transaction Amt & Count increased by 35.0% & 3.4% respectively.
 	• Customer count increased by 12.8%.
 	Overview YTD:
